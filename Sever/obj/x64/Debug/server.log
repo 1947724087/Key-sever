@@ -1,0 +1,20 @@
+﻿  Validating sources
+  Copying sources remotely to '8.140.7.140'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error : occi.h: No such file or directory
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error :  #include <occi.h>
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error :           ^~~~~~~~
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error : compilation terminated.
+  OCCIOP.cpp
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error : occi.h: No such file or directory
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error :  #include <occi.h>
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error :           ^~~~~~~~
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error : compilation terminated.
+  ServerOperation.cpp
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error : occi.h: No such file or directory
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error :  #include <occi.h>
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error :           ^~~~~~~~
+G:\dorckhorse23\11\project1Day08\day08\代码\SeckeyServer\server\server\OCCIOP.h(3,10): error : compilation terminated.
